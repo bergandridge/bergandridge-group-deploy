@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bergandridge-group-deploy/static/css/main.3bdd6b41.css",
-    "main.js": "/bergandridge-group-deploy/static/js/main.12d550f8.js",
+    "main.css": "/bergandridge-group-deploy/static/css/main.d798fc1b.css",
+    "main.js": "/bergandridge-group-deploy/static/js/main.f86854b4.js",
     "static/media/horizontal-line.svg": "/bergandridge-group-deploy/static/media/horizontal-line.ae22af9ac23b5e122b6d43bdbef9c45d.svg",
     "static/media/vertical-line.svg": "/bergandridge-group-deploy/static/media/vertical-line.4bcf30ee6c36013157ab3715eac7e458.svg",
     "static/media/container-vertical-line.svg": "/bergandridge-group-deploy/static/media/container-vertical-line.a70f8f63a68b5d3c04a182f7d127bb51.svg",
@@ -12,11 +12,11 @@
     "static/media/bergandridge-logo.svg": "/bergandridge-group-deploy/static/media/bergandridge-logo.3732b6be9dbbda40dd8eb3e90118be5d.svg",
     "static/media/bjonnd-logo.svg": "/bergandridge-group-deploy/static/media/bjonnd-logo.c377744bd6f161020095a3f7448455a4.svg",
     "index.html": "/bergandridge-group-deploy/index.html",
-    "main.3bdd6b41.css.map": "/bergandridge-group-deploy/static/css/main.3bdd6b41.css.map",
-    "main.12d550f8.js.map": "/bergandridge-group-deploy/static/js/main.12d550f8.js.map"
+    "main.d798fc1b.css.map": "/bergandridge-group-deploy/static/css/main.d798fc1b.css.map",
+    "main.f86854b4.js.map": "/bergandridge-group-deploy/static/js/main.f86854b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bdd6b41.css",
-    "static/js/main.12d550f8.js"
+    "static/css/main.d798fc1b.css",
+    "static/js/main.f86854b4.js"
   ]
 }
