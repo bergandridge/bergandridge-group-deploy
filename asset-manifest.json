@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/bergandridge-group-deploy/static/css/main.d798fc1b.css",
-    "main.js": "/bergandridge-group-deploy/static/js/main.f86854b4.js",
+    "main.css": "/bergandridge-group-deploy/static/css/main.41992243.css",
+    "main.js": "/bergandridge-group-deploy/static/js/main.afdac3ae.js",
     "static/media/horizontal-line.svg": "/bergandridge-group-deploy/static/media/horizontal-line.ae22af9ac23b5e122b6d43bdbef9c45d.svg",
     "static/media/vertical-line.svg": "/bergandridge-group-deploy/static/media/vertical-line.4bcf30ee6c36013157ab3715eac7e458.svg",
     "static/media/container-vertical-line.svg": "/bergandridge-group-deploy/static/media/container-vertical-line.a70f8f63a68b5d3c04a182f7d127bb51.svg",
     "static/media/br-text.svg": "/bergandridge-group-deploy/static/media/br-text.992dbcf5a7b4effe1c4aaa5a71f97fd0.svg",
     "static/media/valeaan-logo.svg": "/bergandridge-group-deploy/static/media/valeaan-logo.d642a904ed48976e3150fcffaf1d0341.svg",
+    "static/media/valeaan-logo-white.svg": "/bergandridge-group-deploy/static/media/valeaan-logo-white.9e1e292c7f091d6de640cc7592d82998.svg",
     "static/media/forrest-lab-logo.svg": "/bergandridge-group-deploy/static/media/forrest-lab-logo.3fe8ee7d892035c9cb69813db68a7aac.svg",
+    "static/media/forrest-lab-logo-white.svg": "/bergandridge-group-deploy/static/media/forrest-lab-logo-white.25d6bcd75667c8e6224c44da43980e55.svg",
     "static/media/br-logo.svg": "/bergandridge-group-deploy/static/media/br-logo.7d1f00a3b28d26a981e1145da0c0bde9.svg",
+    "static/media/br-logo-white.svg": "/bergandridge-group-deploy/static/media/br-logo-white.38530daddb41bbc42cfe83f30ca965de.svg",
     "static/media/bergandridge-logo.svg": "/bergandridge-group-deploy/static/media/bergandridge-logo.3732b6be9dbbda40dd8eb3e90118be5d.svg",
+    "static/media/bergandridge-logo-white.svg": "/bergandridge-group-deploy/static/media/bergandridge-logo-white.c1b8239ac9a5eb65884286a157c0d13d.svg",
     "static/media/bjonnd-logo.svg": "/bergandridge-group-deploy/static/media/bjonnd-logo.c377744bd6f161020095a3f7448455a4.svg",
+    "static/media/bjonnd-logo-white.svg": "/bergandridge-group-deploy/static/media/bjonnd-logo-white.40731cd9273e44e01e93fe1ada9e7b4f.svg",
     "index.html": "/bergandridge-group-deploy/index.html",
-    "main.d798fc1b.css.map": "/bergandridge-group-deploy/static/css/main.d798fc1b.css.map",
-    "main.f86854b4.js.map": "/bergandridge-group-deploy/static/js/main.f86854b4.js.map"
+    "main.41992243.css.map": "/bergandridge-group-deploy/static/css/main.41992243.css.map",
+    "main.afdac3ae.js.map": "/bergandridge-group-deploy/static/js/main.afdac3ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.d798fc1b.css",
-    "static/js/main.f86854b4.js"
+    "static/css/main.41992243.css",
+    "static/js/main.afdac3ae.js"
   ]
 }
