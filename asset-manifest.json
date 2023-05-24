@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.670fc095.css",
+    "main.css": "/static/css/main.0083ed1f.css",
     "main.js": "/static/js/main.95e524c7.js",
     "static/media/under-construction.jpg": "/static/media/under-construction.993fe013ad7ef2ca0ee7.jpg",
     "static/media/horizontal-line.svg": "/static/media/horizontal-line.ae22af9ac23b5e122b6d43bdbef9c45d.svg",
@@ -18,11 +18,11 @@
     "static/media/bjonnd-logo.svg": "/static/media/bjonnd-logo.c377744bd6f161020095a3f7448455a4.svg",
     "static/media/bjonnd-logo-white.svg": "/static/media/bjonnd-logo-white.40731cd9273e44e01e93fe1ada9e7b4f.svg",
     "index.html": "/index.html",
-    "main.670fc095.css.map": "/static/css/main.670fc095.css.map",
+    "main.0083ed1f.css.map": "/static/css/main.0083ed1f.css.map",
     "main.95e524c7.js.map": "/static/js/main.95e524c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.670fc095.css",
+    "static/css/main.0083ed1f.css",
     "static/js/main.95e524c7.js"
   ]
 }
